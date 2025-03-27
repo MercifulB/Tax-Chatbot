@@ -54,7 +54,7 @@ Visit `http://localhost:3000` to see the app running.
 
 ## 🧪 Assumptions Made
 - File uploads are **simulated** and not stored/sent to backend.
-- AI responses referencing uploaded files are **placeholder logic** (real document parsing not implemented).
+- Knowledge is limited to 2023 due to gpt4o API
 - All tax knowledge is assumed to come from the AI model with no authoritative data sources.
 
 ---
