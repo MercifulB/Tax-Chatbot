@@ -18,12 +18,16 @@ git clone https://github.com/yourusername/cotax-chatbot.git
 cd cotax-chatbot
 ```
 
-### 2. Install dependencies
+### 2. Get API key
+Get an API key and create a .env and add OPENAI_API_KEY=sk-your-key
+
+
+### 3. Install dependencies
 ```bash
 npm install
 ```
 
-### 3. Run the development server
+### 4. Run the development server
 ```bash
 npm run dev
 ```
