@@ -87,9 +87,8 @@ Visit `http://localhost:3000` to see the app running.
 ---
 
 ## 📌 Notes
-- This project was built in **under 3 hours**.
 - All features are designed to showcase **AI SDK streaming**, **clean React architecture**, and **Tailwind UI design**.
-
+- GPT-4o Model used
 ---
 
 ## 👨‍💻 Author
