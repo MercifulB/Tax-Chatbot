@@ -6,7 +6,11 @@
 
 [![CoTax Screenshot](https://github.com/MercifulB/Tax-Chatbot/blob/9b3a602e24fa510fa4f36bc64bb02964dfd82b06/CoTax%20Pic.png)](https://drive.google.com/file/d/1Y7kFukvP42s9ndvXdiyamaL69ZQWmRww/view?usp=sharing)
 
-<img width="629" alt="image" src="https://github.com/user-attachments/assets/27934a17-fc28-44ee-81ea-7fa5c014e762" /> <img width="629" alt="image" src="https://github.com/user-attachments/assets/cab8a48f-1944-4e93-b819-b923d7156d72" />
+<p align="center">
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/27934a17-fc28-44ee-81ea-7fa5c014e762" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/cab8a48f-1944-4e93-b819-b923d7156d72" />
+</p>
+
 
 
 ## 📽️ Demo Video
