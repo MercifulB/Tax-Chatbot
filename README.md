@@ -4,7 +4,7 @@
 
 **CoTax** is a web-based chatbot built with **Next.js**, **Tailwind CSS**, **TanStack Query**, and the **Vercel AI SDK**. It acts as a virtual tax assistant for U.S. individual filers, answering common questions about Form 1040, tax brackets, deductions, credits, and more — with support for file uploads and chart generation.
 
-![CoTax Screenshot](/cotax_screenshot.png)
+![CoTax Screenshot](https://github.com/MercifulB/Tax-Chatbot/blob/9b3a602e24fa510fa4f36bc64bb02964dfd82b06/CoTax%20Pic.png)
 
 ## 📽️ Demo Video
 
