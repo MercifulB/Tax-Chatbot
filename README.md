@@ -93,7 +93,7 @@ Visit `http://localhost:3000` to see the app running.
 ---
 
 ## 👨‍💻 Author
-**Merciful Bolaji** — [@mercifulbolaji](https://github.com/mercifulbolaji)
+**Merciful Bolaji** — [ercifulbolaji](https://mercifulbolaji.netlify.app/)
 
 ---
 
