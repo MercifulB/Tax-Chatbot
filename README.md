@@ -95,12 +95,6 @@ Visit [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📎 Demo
-
-Demo Video:
-
----
-
 ## 🧑‍💻 Author
 
 **Merciful Bolaji** — [Merciful](https://mercifulbolaji.netlify.app/)  
