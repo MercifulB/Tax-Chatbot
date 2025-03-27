@@ -1,5 +1,5 @@
 # CoTax AI Chatbot
-![CoTax Chatbot Preview](CoTax Pic.png)
+![CoTax Pic.png)](https://raw.githubusercontent.com/MercifulB/Tax-Chatbot/refs/heads/main/CoTax%20Pic.png)
 A web-based AI tax assistant that helps users understand basic aspects of individual tax returns (Form 1040). Built using **Next.js**, **Vercel AI SDK**, **React Query (TanStack Query)**, and **Tailwind CSS**.
 
 ## 📦 Tech Stack
