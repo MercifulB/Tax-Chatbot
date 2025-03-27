@@ -8,7 +8,7 @@
 
 ## 📽️ Demo Video
 
-[Watch the demoo!](https://drive.google.com/file/d/1Y7kFukvP42s9ndvXdiyamaL69ZQWmRww/view?usp=sharing)
+[Watch the demo!](https://drive.google.com/file/d/1Y7kFukvP42s9ndvXdiyamaL69ZQWmRww/view?usp=sharing)
 
 
 > 🧠 Powered by Vercel AI SDK + GPT-4o
