@@ -104,5 +104,3 @@ Demo Video:
 ## 🧑‍💻 Author
 
 **Merciful Bolaji** — [Merciful](https://mercifulbolaji.netlify.app/)  
-Built as part of a 2–3 hour frontend take-home assignment using the latest AI SDK tools.
-
