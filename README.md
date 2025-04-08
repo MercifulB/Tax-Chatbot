@@ -1,5 +1,5 @@
 
-# 🧾 CoTax AI Chatbot
+# 🧾 Tax AI Chatbot
 
 **CoTax** is a web-based chatbot built with **Next.js**, **Tailwind CSS**, **TanStack Query**, and the **Vercel AI SDK**, now powered by **RAG (Retrieval-Augmented Generation)** using **LangChain**, **ChromaDB**, and **OpenAI GPT-4o**.
 
