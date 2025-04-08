@@ -67,6 +67,7 @@ Create a `.env.local` file:
 ```bash
 OPENAI_API_KEY=your_openai_api_key_here
 ```
+Make sure to add your own API key to os.environ["OPENAI_API_KEY"] in main.py and split_embed.py
 
 ### 4. Set up the backend for RAG
 ### (a) Create a Python virtual environment
