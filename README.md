@@ -90,6 +90,7 @@ chroma run --path ./rag_backend/chroma_db
 ```
 
 ### 5. Run the Next.js app locally
+Back in the root directory:
 ```bash
 npm run dev
 ```
