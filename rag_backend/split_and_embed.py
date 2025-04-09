@@ -15,22 +15,22 @@ def prepare_vectorstore():
 
     for file in files:
         if not os.path.exists(file):
-            print(f"❌ File not found: {file}")
+            print(f"File not found: {file}")
             continue
 
         raw = extract_text_from_pdf(file)
         if not raw.strip():
-            print(f"⚠️ No text extracted from {file}. Skipping.")
+            print(f"No text extracted from {file}. Skipping.")
             continue
 
-        print(f"✅ Extracted text from {file}, length: {len(raw)}")
+        print(f"Extracted text from {file}, length: {len(raw)}")
 
         splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
         docs = splitter.create_documents([raw])
         documents.extend(docs)
 
     if not documents:
-        print("❌ No documents to embed. Aborting.")
+        print("No documents to embed. Aborting.")
         return
 
     vectordb = Chroma.from_documents(
@@ -41,7 +41,7 @@ def prepare_vectorstore():
     )
 
     vectordb.persist()
-    print("✅ Vectorstore persisted successfully.")
+    print("Vectorstore persisted successfully.")
 
 if __name__ == "__main__":
     prepare_vectorstore()
