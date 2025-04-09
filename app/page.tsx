@@ -51,7 +51,7 @@ export default function Home() {
       <footer className="fixed bottom-4 left-4 z-50 flex items-center gap-2 bg-white/70 dark:bg-[#1e1e1e]/70 backdrop-blur-md px-5 py-2 rounded-full shadow-md text-m text-black dark:text-white">
         <Image src="/ic.svg" alt="Mercy Icon" width={20} height={20} />
         <a
-          href="https://mercifulbolaji.netlify.app/" // ← replace with your real URL
+          href="https://mercifulbolaji.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:underline"
