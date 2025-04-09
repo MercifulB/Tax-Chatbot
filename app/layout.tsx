@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import QueryProvider from "./QueryProvider"; // <-- import your client provider
+import QueryProvider from "./QueryProvider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 const geist = Geist({
   subsets: ['latin'],
-  weight: ['400', '500', '600', '700'], // optional weights
+  weight: ['400', '500', '600', '700'],
   variable: '--font-geist',
   display: 'swap',
 })
