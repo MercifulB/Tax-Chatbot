@@ -25,7 +25,7 @@ It acts as a virtual tax assistant for U.S. individual filers, answering common 
 ## 🚀 Features
 
 - 💬 Conversational UI via `useChat` (Vercel AI SDK)
-- 🔎 **RAG Integration**: Injects accurate 2024 U.S. tax info via document-based context
+- 🔎 RAG Integration: Injects accurate 2024 U.S. tax info via document-based context
 - 📁 File upload support (PDFs, images) with preview
 - 📊 Chart rendering via Markdown-like `[chart]{...}[/chart]` syntax
 - 📄 Table rendering via GitHub Flavored Markdown (GFM)
